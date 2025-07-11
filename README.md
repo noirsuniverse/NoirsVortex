@@ -262,7 +262,45 @@ if __name__ == "__main__":
 ## 📊 Key Components
 
 **DataFetcher:** Yahoo Finance API wrapper with error handling
+
 **RSICalculator:** 14-day Relative Strength Index Analyzer
+
 **PDFGenerator:** Custom report builder with section formatting
+
 **Plotter:** Dual-chart visualization system
 
+## 💡 How to Use
+
+1. **Run** the interzctive analyzer: ```python3 noirsvortex.py```
+2. **Enter** a stock ticker (e.g., AAPL, TSLA)
+3. **Select** time period (default: 1 year)
+4. **View** analysis and charts
+5. **Save** PDF report (only possible with fpdf installed)
+
+## 🚀 Quick Start
+```
+# Clone and install
+git clone https://github.com/yourusername/noirsvortex.git
+cd noirsvortex
+pip install -r requirements.txt
+
+# Run analyzer
+python noirsvortex.py
+```
+
+## ⚙️ Requirements
+- Python 3.6+
+- Core Dependencies:
+yfinance matplotlib pandas requests beautifulsoup4
+- Optional for PDFs: ```fpdf```
+
+## 🤝 Contributing
+
+PRs welcome! Potential enhancements:
+
+- Add MACD/Stochastic indicators
+- News sentiment analysis integration
+- Portfolio tracking features
+- Interactive HTML reports
+
+*Disclaimer: For educational purposes only. Not financial advice.*
