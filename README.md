@@ -2,8 +2,8 @@
 *A Python-based stock analysis tool that fetches market data, performs technical analysis, and generates reports with visualizations.*
 
 ![NoirSVortex Screenshot](Screenshots/ss1.png)
+![NoirSVortex Screenshot](Screenshots/ss3.png)
 ![NoirSVortex Screenshot](Screenshots/ss2.png)
-![NoirSVortex Screenshot](Screenshots/ss1.png)
 
 ## ✨ Features
 
