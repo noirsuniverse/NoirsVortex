@@ -28,7 +28,8 @@
 - Error handling for invalid tickers
 
 ## 🛠 Tech Stack
-[!Python](https://img.shields.io/badge/Python-3.6+-white?logo=python) [!yfinance](https://img.shields.io/badge/yfinance-Data_API-black) [!Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-lightgrey)
+![Python](https://img.shields.io/badge/Python-3.6+-lightgrey?logo=python)  ![yfinance](https://img.shields.io/badge/yfinance-Data_API-black)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-white)  
+
 
 ```
 import yfinance as yf
